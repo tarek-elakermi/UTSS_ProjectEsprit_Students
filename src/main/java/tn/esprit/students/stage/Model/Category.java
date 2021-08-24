@@ -13,6 +13,8 @@ import lombok.Data;
 @Document
 public class Category {
 	
+	//without serializable
+	
 	
 	@Id
 	private String idCategory;
